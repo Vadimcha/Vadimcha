@@ -3,11 +3,10 @@
 - <h6>Personal paddawan of <a href="https://github.com/zotovy">Yaroslav Zotov</a></h6>
 - <h6>Just a kitty <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/></h6>
 
-<hr>
-
-
 I work only for milk and only for Yaroslav Zotov.
-### Tools I use
+
+<hr>
+<h3>Tools I use</h3>
 <div style="display: flex; gap: 4px">
   <div style="display: flex; flex-direction: column; gap: 3px">
 
@@ -80,13 +79,10 @@ I work only for milk and only for Yaroslav Zotov.
 
   </div>
 </div>
+<hr>
+<h4>My profiles</h4>
 <p>
-  #### My profiles
-
   <a href='https://t.me/Vadimchaa'><img style="height: 20px;" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href='mailto:BelovBadim2014@yandex.ru'><img style="height: 20px;" alt="WebStorm" src="https://img.shields.io/badge/Yandex%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href='http://codeforces.com/profile/BelovBadim'><img style="height: 20px;" alt="WebStorm" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-
-  
-
 </p>
