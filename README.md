@@ -1,4 +1,4 @@
-## Hello there, i'm Vadim
+## Hello there, I'm Vadim
 - <h6>Milord Developer from Saint-Petesburg</h6>
 - <h6>Personal paddawan of <a href="https://github.com/zotovy">Yaroslav Zotov</a></h6>
 - <h6>Just a kitty <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/></h6>
