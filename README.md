@@ -1,6 +1,6 @@
 ## Hello there! I'm Vadim :v:
 
-<img src="https://thumbs.gfycat.com/PastFragrantGar-max-1mb.gif" />
+<img src="header.gif" />
 
 ### :man_technologist: About Me :
 - :briefcase: Developer from Saint-Petersburg.
