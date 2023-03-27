@@ -1,4 +1,6 @@
-## Hello there, I'm Vadim :v:
+## Hello there! I'm Vadim :v:
+
+<img src="https://thumbs.gfycat.com/PastFragrantGar-max-1mb.gif" />
 
 ### :man_technologist: About Me :
 - :briefcase: Developer from Saint-Petersburg.
@@ -9,14 +11,14 @@
 
 
 
-##### I work only for milk	and only for Yaroslav Zotov.
+##### I work only for milk 🥛 and only for Yaroslav Zotov.
   
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vadimcha&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadimcha&layout=compact&theme=tokyonight&hide_border=true&hide=css,sass&background=EB545400)](https://github.com/anuraghazra/github-readme-stats)
   
-### Tools I use
+### 🛠 Tech Stack
 <div style="display: flex; gap: 4px">
   <div style="display: flex; flex-direction: column; gap: 3px">
 
@@ -91,7 +93,7 @@
 </div>
 
 <hr>
-<h4>Contact me!</h4>
+<h4>🤝🏻 &nbsp; Contact me!</h4>
 <p>
   <a href='https://t.me/Vadimchaa'><img style="height: 20px;" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href='mailto:BelovBadim2014@yandex.ru'><img style="height: 20px;" alt="WebStorm" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
