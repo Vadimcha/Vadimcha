@@ -16,7 +16,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vadimcha&theme=tokyonight&hide_border=true&background=EB545400)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadimcha&layout=compact&theme=tokyonight&hide_border=true&hide=css,sass&background=EB545400&hide=jupiter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadimcha&layout=compact&theme=tokyonight&hide_border=true&hide=css,sass,jupiter_notebook&background=EB545400)](https://github.com/anuraghazra/github-readme-stats)
   
 ### 🛠 Tech Stack
 <div style="display: flex; gap: 4px">
