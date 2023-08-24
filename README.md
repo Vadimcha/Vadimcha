@@ -3,7 +3,7 @@
 <img src="header.gif" />
 
 ### :man_technologist: About Me :
-- :briefcase: Developer from Saint-Petersburg.
+- :briefcase: Developer from Russia.
 
 - :dagger: Personal paddawan of <a href="https://github.com/zotovy">Yaroslav Zotov.
 
