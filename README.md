@@ -96,6 +96,4 @@
   <a href='http://codeforces.com/profile/BelovBadim'><img style="height: 20px;" alt="WebStorm" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Vadimcha&style=flat&color=blue" alt=""/>
-
   
