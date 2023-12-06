@@ -2,12 +2,12 @@
 
 <img src="header.gif" />
 
-### :man_technologist: About Me :
-- :briefcase: Developer from Russia.
+### About Me :
+- :briefcase: Developer from Russia
 
-- :dagger: Personal paddawan of <a href="https://github.com/zotovy">Yaroslav Zotov.
+- :dagger: Personal paddawan of <a href="https://github.com/zotovy">Yaroslav Zotov
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/>  Just a cat.
+- <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/>  Just a cat
 
 
 
