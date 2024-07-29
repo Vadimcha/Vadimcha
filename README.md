@@ -3,15 +3,9 @@
 <img src="header.gif" />
 
 ### About Me :
-- :briefcase: Developer from Russia
-
-- :dagger: Personal paddawan of <a href="https://github.com/zotovy">Yaroslav Zotov
-
-- <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/>  Just a cat
-
-
-
-##### I work only for milk 🥛 and only for Yaroslav Zotov.
+- :briefcase: Frontend developer from Russia
+- 🏅 Top 20 industrial olympiad PROD 2024 for Frontend Development
+- 🥛 Work only for milk <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/>
   
 ### 🛠 Tech Stack
 <div style="display: flex; gap: 4px">
