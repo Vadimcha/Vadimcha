@@ -4,7 +4,7 @@
 
 ### About Me :
 - :briefcase: Frontend developer from Russia
-- 🏅 Top 20 industrial olympiad PROD 2024 for Frontend Development
+- 🏅 Winner of the PROD Olympiad 2024
 - 🥛 Work only for milk <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/>
   
 <hr>
