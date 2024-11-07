@@ -6,6 +6,7 @@
 - :briefcase: Frontend developer from Russia
 - 🏅 Winner of the PROD Olympiad 2024
 - 🥛 Work only for milk <img src="https://emojis.slackmojis.com/emojis/images/1607077101/11614/pop_cat.gif?1607077101" width="20"/>
+-  💻 React Junior Developer | Angular Trainee
   
 <hr>
 <h4>🤝🏻 &nbsp; Contact me!</h4>
